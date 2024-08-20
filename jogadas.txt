@@ -1,0 +1,95 @@
+
+Novo jogo iniciado
+Jogador humano: X, Computador: O
+Jogador humano jogou em (0, 0)
+Computador jogou em (2, 2)
+Jogador humano jogou em (1, 0)
+Computador jogou em (2, 0)
+Jogador humano jogou em (2, 1)
+Computador jogou em (0, 2)
+Jogador humano jogou em (1, 2)
+Computador jogou em (1, 1)
+Resultado: Computador venceu
+
+Novo jogo iniciado
+Jogador humano: O, Computador: X
+Jogador humano jogou em (0, 0)
+Computador jogou em (2, 2)
+Jogador humano jogou em (2, 1)
+Computador jogou em (1, 0)
+Jogador humano jogou em (0, 1)
+Computador jogou em (0, 2)
+Jogador humano jogou em (1, 1)
+Resultado: Jogador humano venceu
+
+Novo jogo iniciado
+Jogador humano: X, Computador: O
+Jogador humano jogou em (1, 1)
+Computador jogou em (2, 0)
+Jogador humano jogou em (2, 1)
+Computador jogou em (0, 1)
+Jogador humano jogou em (1, 0)
+Computador jogou em (1, 2)
+Jogador humano jogou em (0, 0)
+Computador jogou em (2, 2)
+Jogador humano jogou em (0, 2)
+Resultado: Empate
+
+Novo jogo iniciado
+Jogador humano: X, Computador: O
+Jogador humano jogou em (0, 0)
+Computador jogou em (0, 2)
+Jogador humano jogou em (1, 1)
+Computador jogou em (2, 2)
+Jogador humano jogou em (1, 2)
+Computador jogou em (1, 0)
+Jogador humano jogou em (0, 1)
+Computador jogou em (2, 1)
+Jogador humano jogou em (2, 0)
+Resultado: Empate
+
+Novo jogo iniciado
+Jogador humano: X, Computador: O
+Jogador humano jogou em (0, 0)
+Computador jogou em (0, 1)
+Jogador humano jogou em (1, 1)
+Computador jogou em (2, 2)
+Jogador humano jogou em (2, 0)
+Computador jogou em (0, 2)
+Jogador humano jogou em (1, 0)
+Resultado: Jogador humano venceu
+
+Novo jogo iniciado
+Jogador humano: O, Computador: X
+Jogador humano jogou em (1, 2)
+Computador jogou em (2, 1)
+Jogador humano jogou em (2, 2)
+Computador jogou em (0, 2)
+Jogador humano jogou em (1, 0)
+Computador jogou em (1, 1)
+Jogador humano jogou em (0, 0)
+Computador jogou em (0, 1)
+Resultado: Computador venceu
+
+Novo jogo iniciado
+Jogador humano: O, Computador: X
+Jogador humano jogou em (2, 2)
+Computador jogou em (1, 2)
+Jogador humano jogou em (1, 1)
+Computador jogou em (0, 0)
+Jogador humano jogou em (2, 0)
+Computador jogou em (0, 2)
+Jogador humano jogou em (2, 1)
+Resultado: Jogador humano venceu
+
+Novo jogo iniciado
+Jogador humano: X, Computador: O
+Jogador humano jogou em (0, 2)
+Computador jogou em (1, 0)
+Jogador humano jogou em (0, 1)
+Computador jogou em (0, 0)
+Jogador humano jogou em (2, 0)
+Computador jogou em (1, 1)
+Jogador humano jogou em (1, 2)
+Computador jogou em (2, 2)
+Resultado: Computador venceu
